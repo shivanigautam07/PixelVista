@@ -62,7 +62,7 @@ Contributions, issues, and feature suggestions are welcome!
 
 **Shivani Gautam**
 
-GitHub: [@stellix07](https://github.com/shivanigautam07)
+GitHub: [@shivanigautam07](https://github.com/shivanigautam07)
 
 ---
 
